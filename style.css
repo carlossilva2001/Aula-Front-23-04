@@ -1,0 +1,45 @@
+/* Estilo para o background */
+body {
+    background-image: url('background.jpg'); /* Substitua 'background.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilização dos parágrafos */
+#paragrafo1 {
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#paragrafo2 {
+    color: blue;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#paragrafo3 {
+    color: green;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#paragrafo4 {
+    color: purple;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+#paragrafo5 {
+    color: orange;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+#paragrafo6 {
+    color: brown;
+    font-size: 26px;
+    line-height: 1.5;
+}
