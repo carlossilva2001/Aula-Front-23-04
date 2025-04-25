@@ -1,13 +1,12 @@
 /* Estilo para o background */
 body {
-    background-image: url('background.jpg'); /* Substitua 'background.jpg' pelo caminho da sua imagem */
+    background-image: url('TESTI\ 2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Arial, sans-serif;
 }
 
-/* Estilização dos parágrafos */
 #paragrafo1 {
     color: red;
     font-size: 16px;
